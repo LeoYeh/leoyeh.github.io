@@ -1,0 +1,24 @@
+{
+  "name": "leoyeh.github.io",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "aa.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoYeh/leoyeh.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoYeh/leoyeh.github.io/issues"
+  },
+  "homepage": "https://github.com/LeoYeh/leoyeh.github.io#readme"
+}
